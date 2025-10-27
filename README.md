@@ -88,17 +88,6 @@ Currently mastering **Flutter** and developing the **Nithra Ads Admin App** to e
 
 ---
 
-### 📊 GitHub Stats
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=dineshkumar-my-apps&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dineshkumar-my-apps&theme=radical)
-
-![dineshkumar-my-apps's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshkumar-my-apps&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar-my-apps&layout=compact&theme=radical)
-
----
-
 ## 📌 What you can do on my profile
 - ⭐ **Star** projects you like  
 - 🐛 **Open issues** for bugs or feature requests  
