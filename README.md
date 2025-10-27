@@ -65,6 +65,29 @@ Currently mastering **Flutter** and developing the **Nithra Ads Admin App** to e
   
 ---
 
+### 🏆 GitHub Achievements
+<!-- Reliable badge replacements for trophies -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dineshkumar-my-apps&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dineshkumar-my-apps&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dineshkumar-my-apps?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dineshkumar-my-apps&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar-my-apps&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=dineshkumar-my-apps&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
 
@@ -97,6 +120,7 @@ Currently mastering **Flutter** and developing the **Nithra Ads Admin App** to e
 </p>
 
 ---
+⭐ **Tip:** Keep contributing regularly — GitHub streaks & contribution graphs update automatically when you push code.
 
 > "Passionate about building apps that make life easier."
 
