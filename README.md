@@ -109,6 +109,43 @@ Currently mastering **Flutter** and developing the **Nithra Ads Admin App** to e
 </p>
 
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=dineshkumar-my-apps&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar-my-apps&layout=compact&theme=radical)
+
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=dineshkumar-my-apps&theme=radical)
+
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=dineshkumar-my-apps&theme=react-dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dineshkumar-my-apps)
+
+---
+
+![Followers](https://img.shields.io/github/followers/dineshkumar-my-apps?label=Follow&style=social)
+![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)
+
+
+---
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
+
+---
+
+![Medium](https://img.shields.io/badge/medium-Read-yellow)
+
+---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=motivational)
+
+---
+
+![Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,firebase,git)
+
+---
+
 ⭐ **Tip:** Keep contributing regularly — GitHub streaks & contribution graphs update automatically when you push code.
 
 > "Passionate about building apps that make life easier."
