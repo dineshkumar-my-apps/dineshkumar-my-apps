@@ -70,6 +70,31 @@ Currently mastering **Flutter** and developing the **Nithra Ads Admin App** to e
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dineshkumar-my-apps&theme=radical)
 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Kirubakar001&theme=radical)
+
+
+![Kirubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshkumar-my-apps&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar-my-apps&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/dineshkumar-selvaraj-49676891/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dineshkumar.nithra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dineshkumar-my-apps" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 > "Passionate about building apps that make life easier."
 
 
