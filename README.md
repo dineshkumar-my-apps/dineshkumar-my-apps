@@ -64,6 +64,12 @@ Currently mastering **Flutter** and developing the **Nithra Ads Admin App** to e
 
 ---
 
+
+### 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=dineshkumar-my-apps&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dineshkumar-my-apps&theme=radical)
+
 > "Passionate about building apps that make life easier."
 
 
