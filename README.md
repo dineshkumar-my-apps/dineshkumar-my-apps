@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋 I'm Dineshkumar Selvaraj  
 
 <!--
 **dineshkumar-my-apps/dineshkumar-my-apps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 **Senior Android Developer | Nithra Apps India Pvt. Ltd.**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dineshkumar-my-apps&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 🚀 About Me
@@ -36,6 +38,7 @@ I'm a passionate Android developer with extensive experience in building robust,
 - Java
 - Kotlin
 - Dart
+- JavaScript
 
 ### UI Development
 - XML
@@ -64,6 +67,16 @@ Currently mastering **Flutter** and developing the **Nithra Ads Admin App** to e
 
 ---
 
+## 📊 GitHub Stats
+<!-- GitHub Readme Stats -->
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshkumar-my-apps&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar-my-apps&layout=compact&theme=radical)
+
+<!-- Activity Graph -->
+![activity graph](https://activity-graph.herokuapp.com/graph?username=dineshkumar-my-apps&theme=react-dark&area=true)
+
+---
 
 ### 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=dineshkumar-my-apps&theme=radical)
@@ -74,9 +87,16 @@ Currently mastering **Flutter** and developing the **Nithra Ads Admin App** to e
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kirubakar001&theme=radical)
 
 
-![Kirubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshkumar-my-apps&show_icons=true&theme=radical)
+![dineshkumar-my-apps's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshkumar-my-apps&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar-my-apps&layout=compact&theme=radical)
+
+---
+
+## 📌 What you can do on my profile
+- ⭐ **Star** projects you like  
+- 🐛 **Open issues** for bugs or feature requests  
+- 🤝 **Contribute** — see `CONTRIBUTING.md` in each repo
 
 ---
 
@@ -97,4 +117,34 @@ Currently mastering **Flutter** and developing the **Nithra Ads Admin App** to e
 
 > "Passionate about building apps that make life easier."
 
+---
+
+## ✅ Profile Boost Checklist
+- [x] Add README to your profile repo (this file)  
+- [x] Pin 4–6 most important repositories on your profile (apps, libraries, talks)  
+- [x] Add clear **README** for each repo: description, screenshots, how-to-run, license  
+- [x] Add `topics` to repos (keywords like `android`, `kotlin`, `jetpack-compose`)  
+- [x] Add `CONTRIBUTING.md`, `ISSUE_TEMPLATE.md`, `PR_TEMPLATE.md` to encourage contributions  
+- [x] Add demo GIFs and screenshots (store in repo `assets/` or GitHub releases)  
+- [x] Set a consistent commit frequency (small, regular updates)  
+- [ ] Add LinkedIn / personal website link & email for contact
+
+---
+
+## ⚙️ Troubleshooting for the trophy card
+If the trophy card (`github-profile-trophy.vercel.app`) returns **503 / Service Unavailable**:
+1. Try switching the `theme` param (e.g., `theme=gruvbox`, `theme=onedark`) or remove it to use default.  
+2. Replace the trophy badge with other badges until the service comes back:
+   - GitHub Readme Stats (shown above) — very stable.
+   - Shields (followers, license):  
+     `![Followers](https://img.shields.io/github/followers/dineshkumar-my-apps?label=Follow&style=social)`
+
+---
+
+Thank you — if you want, I can:
+- Generate a ready-made **project card** layout (Markdown + small gif) for each of your top 3 repos.  
+- Create copy for `CONTRIBUTING.md` / issue templates.  
+- Swap the theme or fix any broken badges and give you the exact final README after you supply real repo/demo links.
+
+Would you like me to auto-fill project links and screenshots now (I can draft placeholders and sample CONTRIBUTING.md)? 
 
