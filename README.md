@@ -116,7 +116,21 @@ Currently mastering **Flutter** and developing the **Nithra Ads Admin App** to e
 
 ### 💡 Skills
 
-![Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,firebase,git)
+![Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,firebase,git,androidstudio)
+
+
+### 💡 Languages
+
+![Languages](https://skillicons.dev/icons?i=java,kotlin,dart,python,php)
+
+![Calendar](https://activity-graph.herokuapp.com/graph?username=dineshkumar-my-apps&theme=dracula)
+
+![Coding](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+
+![Fun Fact](https://quotes-github-readme.vercel.app/api?type=funny)
+
+![Random Pokémon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
+
 
 ---
 
